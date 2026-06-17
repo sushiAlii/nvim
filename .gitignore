@@ -1,0 +1,8 @@
+# Ignore lazy.nvim's compiled state and locks
+.lazy.lua
+lazy-lock.json
+
+# Ignore backup files or temporary swap files Neovim makes
+*.swp
+.DS_Store
+
